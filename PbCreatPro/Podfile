@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+#pod "AFNetworking"
+
+target "PbCreatPro" do
+    pod 'ProtocolBuffers', '~> 1.9.10'
+
+end
